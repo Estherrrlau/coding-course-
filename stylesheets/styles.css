@@ -1,0 +1,23 @@
+p {
+  background-color: pink;
+  color: white;
+  width: 80%;
+}
+ol {
+  border-style: dotted;
+  border-color: pink;
+}
+img {
+  height: 300px;
+  margin-left: 30px;
+}
+.orange {
+  color: orange;
+}
+#first-paragraph{
+  color: purple;
+}
+#flex-div{
+  display: flex;
+
+}
